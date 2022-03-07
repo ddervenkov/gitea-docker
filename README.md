@@ -1,2 +1,3 @@
 # gitea-docker
-Docker compose file for gitea
+Docker compose file with gitea for DevOps Course 
+ 
